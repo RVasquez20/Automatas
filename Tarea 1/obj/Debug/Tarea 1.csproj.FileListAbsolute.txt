@@ -1,0 +1,10 @@
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea 1.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea_1.FormMenuPrincipal.resources
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea 1.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\rodri\Documents\GitHub\Automatas y lenguajes formales\Tarea 1\obj\Debug\Tarea 1.pdb
